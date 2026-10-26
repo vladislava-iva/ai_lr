@@ -1,0 +1,10 @@
+C:\Users\Влада\source\repos\32-1_Ivanova_project1\32-1_Ivanova_project1\obj\Debug\32-1_Ivanova_project1.csproj.AssemblyReference.cache
+C:\Users\Влада\source\repos\32-1_Ivanova_project1\32-1_Ivanova_project1\obj\Debug\_32_1_Ivanova_project1.Properties.Resources.resources
+C:\Users\Влада\source\repos\32-1_Ivanova_project1\32-1_Ivanova_project1\obj\Debug\32-1_Ivanova_project1.csproj.GenerateResource.cache
+C:\Users\Влада\source\repos\32-1_Ivanova_project1\32-1_Ivanova_project1\obj\Debug\32-1_Ivanova_project1.csproj.CoreCompileInputs.cache
+C:\Users\Влада\source\repos\32-1_Ivanova_project1\32-1_Ivanova_project1\bin\Debug\32-1_Ivanova_project1.exe.config
+C:\Users\Влада\source\repos\32-1_Ivanova_project1\32-1_Ivanova_project1\bin\Debug\32-1_Ivanova_project1.exe
+C:\Users\Влада\source\repos\32-1_Ivanova_project1\32-1_Ivanova_project1\bin\Debug\32-1_Ivanova_project1.pdb
+C:\Users\Влада\source\repos\32-1_Ivanova_project1\32-1_Ivanova_project1\obj\Debug\32-1_Ivanova_project1.exe
+C:\Users\Влада\source\repos\32-1_Ivanova_project1\32-1_Ivanova_project1\obj\Debug\32-1_Ivanova_project1.pdb
+C:\Users\Влада\source\repos\32-1_Ivanova_project1\32-1_Ivanova_project1\obj\Debug\_32_1_Ivanova_project1.FormMain.resources
